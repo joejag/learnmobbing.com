@@ -1,0 +1,4 @@
+baseURL = 'https://learnmobbing.com/'
+languageCode = 'en-us'
+title = 'Learn Mobbing'
+theme = 'learn'
